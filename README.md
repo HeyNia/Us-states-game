@@ -44,7 +44,8 @@ python main.py
 - Handling user input in Python.
 
 ## 📸 Screenshot
-Add a screenshot of your game here.
+![Output](us-state-game.png)
+us-state-game.png
 
 ## 🔧 Future Improvements
 - Add a score system.
